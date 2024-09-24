@@ -6,8 +6,8 @@ from cashier import Cashier
 # Make an instance of other classes here
 resources = data.resources
 recipes = data.recipes
-sandwich_maker_instance = #####
-cashier_instance = ######
+sandwich_maker_instance = SandwichMaker(resources)
+cashier_instance =Cashier()
 
 
 
